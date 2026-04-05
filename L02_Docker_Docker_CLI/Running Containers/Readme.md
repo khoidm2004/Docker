@@ -1,4 +1,4 @@
-# L05-04
+# L02
 
 Type the following Docker commands:
 
