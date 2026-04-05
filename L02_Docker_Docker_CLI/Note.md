@@ -42,3 +42,18 @@
     | Command  | Note     |
     |----------|----------|
     |``docker rm [containerName]``    | Remove containers in mem (containers must be stopped state)   | 
+
+## Building Containers Commands
+![alt text](image-7.png)
+
+```!Notes:```
+
+![alt text](image-10.png)
+[name:tag]: tag usually used to specify version number
+
+### Example
+1. Dockerfile -static HTML site
+![alt text](image-8.png)
+
+2. Dockerfile - Node Site
+![alt text](image-9.png)
