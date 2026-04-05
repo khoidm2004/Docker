@@ -44,3 +44,7 @@
     - Failover
     - Health monitoring
     - App upgrades, 0-Downtime Deployment
+- Install your own
+    - Kubernetes, Swarm, Service Fabric
+- Orchestrator as service
+    - Azure Kubernetes Service, Service Fabric
