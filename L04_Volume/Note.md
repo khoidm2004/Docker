@@ -5,7 +5,7 @@
 ![alt text](image-1.png)
 
 ```!Notes:```
--  The  local folder is map to  VM file system => data is store inside the volume  => data survive when container restart or crash
+- The  local folder is map to  VM file system => data is store inside the volume  => data survive when container restart or crash
 - There is still chance of losing data if the VM crashes
 
 
