@@ -23,3 +23,27 @@
 ![alt text](image-13.png)
 ![alt text](image-14.png)
 ![alt text](image-15.png)
+
+## Declarative vs Imperative Way To Create Resources in K8S
+
+![alt text](image-16.png)
+
+- Imperative Example:
+![alt text](image-17.png)
+</br>
+
+- Declarative Example:
+</br>
+![alt text](image-18.png)
+![alt text](image-19.png)
+
+- Way to Create Manifests:
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-23.png)
+
+## Namespaces
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
