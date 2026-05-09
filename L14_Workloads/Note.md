@@ -28,4 +28,16 @@
 - Deployment cheatsheet
 ![alt text](image-10.png)
 
+## DaemonSet
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+- Example:
+![alt text](image-13.png)
+
+- Cheatsheet:
+![alt text](image-14.png)
+
+
 
